@@ -13,4 +13,7 @@
   
   
   ![Capture](https://user-images.githubusercontent.com/60191225/154685049-520386b6-d133-4568-b3e8-896c10d4136c.JPG)
+  
+  ## if you want to play 
+  ## GUI visit -> https://tic-toc-toe-play.000webhostapp.com/
 
